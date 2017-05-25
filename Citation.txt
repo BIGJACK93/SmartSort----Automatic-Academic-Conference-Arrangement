@@ -1,0 +1,5 @@
+Credit of the following function:
+
+cell2uitable.m
+
+belong to Bob Spunt (2015).
